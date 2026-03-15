@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(to right, #E0F7FA, #e6f2ff);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    margin-top:40px;
+    color:#333;
+}
+
+.table{
+    margin-top:10px;
+}
+
+.container{
+    margin-top:40px;
+}
+
+.section-title{
+    background: #a8d4ed;
+    padding:10px;
+    border-radius:5px;
+    font-weight:bold;
+}
